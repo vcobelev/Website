@@ -544,7 +544,7 @@ body {
 
     #check-menu:checked ~ .check-menu-label {
         border-radius: 10px;
-        padding-right: 100px;
+        padding-right: 50px;
         background: #efc7ff;
         box-shadow: rgba(255, 255, 255, 0.548) 2px 2px 10px 2px;
         border: 2px solid rgb(255, 255, 255);
